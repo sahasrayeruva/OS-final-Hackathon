@@ -202,7 +202,7 @@ Through this project, we gained practical knowledge of:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Sahasra Yeruva]**
 
 Branch: Computer Science & Information Technology
 
